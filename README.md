@@ -2,6 +2,11 @@
 
 A lightweight macOS menu bar application to monitor the battery levels of your **Oppo Enco Air 3 Pro** earbuds.
 
+## Download 📥
+
+**[Download OppoEncoMonitor.zip](OppoEncoMonitor.zip)**
+_(Unzip and drag to Applications)_
+
 ## Features ✨
 
 - **Real-time Battery Monitoring**: Displays Left, Right, and Case battery levels.
